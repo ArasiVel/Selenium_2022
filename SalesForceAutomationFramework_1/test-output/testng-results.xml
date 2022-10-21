@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="5" total="6" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-01T18:47:48 EDT" name="Suite1" finished-at="2022-10-01T18:48:02 EDT" duration-ms="13873">
+    <groups>
+    </groups>
+    <test started-at="2022-10-01T18:47:48 EDT" name="Regression" finished-at="2022-10-01T18:48:02 EDT" duration-ms="13873">
+      <class name="com.salesForce.tests_1.AutomationScripts">
+        <test-method is-config="true" signature="setupBeforeTest()[pri:0, instance:com.salesForce.tests_1.AutomationScripts@289710d9]" started-at="2022-10-01T18:47:48 EDT" name="setupBeforeTest" finished-at="2022-10-01T18:47:49 EDT" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBeforeTest -->
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.salesForce.tests_1.AutomationScripts@289710d9]" started-at="2022-10-01T18:47:49 EDT" name="setUp" finished-at="2022-10-01T18:47:56 EDT" duration-ms="6876" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public static void com.salesForce.tests_1.AutomationScripts.SFTC05_userMenu()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="SFTC05_userMenu()[pri:0, instance:com.salesForce.tests_1.AutomationScripts@289710d9]" started-at="2022-10-01T18:47:56 EDT" name="SFTC05_userMenu" finished-at="2022-10-01T18:48:02 EDT" duration-ms="5971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SFTC05_userMenu -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.salesForce.tests_1.AutomationScripts@289710d9]" started-at="2022-10-01T18:48:02 EDT" name="tearDown" finished-at="2022-10-01T18:48:02 EDT" duration-ms="399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="teardownAfterTest()[pri:0, instance:com.salesForce.tests_1.AutomationScripts@289710d9]" started-at="2022-10-01T18:48:02 EDT" name="teardownAfterTest" finished-at="2022-10-01T18:48:02 EDT" duration-ms="396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownAfterTest -->
+      </class> <!-- com.salesForce.tests_1.AutomationScripts -->
+    </test> <!-- Regression -->
+  </suite> <!-- Suite1 -->
+</testng-results>
